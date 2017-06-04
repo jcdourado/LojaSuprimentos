@@ -1,0 +1,272 @@
+-----------------------
+Ver 1.7.0
+-----------------------
+Fixed: 		Mailchip For PHP 7.x
+Updated:	Theme Option
+Fixed:		Main menu in header  style 2 on mobile
+-----------------------
+Ver 1.6.1
+-----------------------
+Fixed: 	Lost shortcode [yith_compare] when using ajax
+Fixed:	Rating display
+-----------------------
+Ver 1.6.0
+-----------------------
+Fixed: 	Newletter In footer style 2
+Added:	Setting Newletter in footer style 2
+Updated: kutetheme-toolkit v1.3.0	
+-----------------------
+Ver 1.5.4
+-----------------------
+Fixed: Load Shortcode Visual Composer
+
+-----------------------
+Ver 1.5.3.5
+-----------------------
+Fixed: Nav button tab product on mobile
+Update: WooCommerce 2.6.4 
+
+-----------------------
+Ver 1.5.3.4
+-----------------------
+11/07/2016 Update the version Woocommerce Ver 2.6.2.
+
+-----------------------
+Ver 1.5.3.3
+-----------------------
+28/06/2016 Fix: the gap in search bar categories on the Header when select the sub categories from dropdown.
+28/06/2016 Fix: the Sub Categories showing on sidebar when view more than 2 levels.
+28/06/2016 Show the Product Reviews Tabs on Mobile Devices
+28/06/2016 Update the version 5.1.5 of Revolution and Woocommerce Ver 2.6.1.
+28/06/2016 Update Visual Composer version 4.12
+-----------------------
+Ver 1.5.3.2
+-----------------------
+Fixed	: 	Update cart
+Update	:	Woocommerce 2.6.0
+
+=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*
+Ver 1.5.3.1
+=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*
+23/05/2016 Fixed: Shortcode Category Tab
+23/05/2016 Fixed: Shortcode Testimonial
+
+=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*
+Ver 1.5.3
+=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*
+19/04/2016 Update: WPBakery Visual Composer Version 4.11.2
+
+=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*
+Ver 1.5.2
+=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*
+09/03/2016 Fix: shortcode categy tab responsive
+08/03/2016 Update: Change css ajax loading button option14
+08/03/2016 Fix: buton on product list
+07/03/2016 Fix: Change on sales -> on sale in tab product shortcode, Change cart url
+29/02/2016 Fix: hot deal title
+=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*
+Ver 1.5.1
+=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*
+23/02/2016 Update: css shop page
+23/02/2016 Fix: shop page title display
+23/02/2016 Fix : the Vertical menu show when scrolling down the Homepage
+23/02/2016 Update: css tab 5
+23/02/2016 Update: Detect device
+19/02/2016 Update: shortcode category tab and minify css js
+16/02/2016 Fix: Fix submenu header 7
+16/02/2016 Fix: Single product thumbs on firefox
+=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*
+Ver 1.5.0
+=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*
+Fixed:  	Result count text translate.
+Update: 	VC 4.9.2
+Update: 	Woocommerce template 2.5.0
+Fixed:  	Add to cart ajax
+Added:  	Target in Social widget
+Support:  	Plugin YITH WooCommerce Zoom Magnifier
+Fixed:  	Error PHP Warning: Division by zero
+Fixed:  	Loop owl carousel.
+Fixed:  	Button add cart css
+Update: 	VC template 14 home page
+
+=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*
+Ver 1.4.9
+=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*
+31/12/2015 Update Revoslider 5.1.5
+31/12/2015 Update VC 4.9.1
+31/12/2015 Update loop carousel
+30/12/2015 Update size product
+29/12/2015 Fix rtl css page cart and checkout
+21/12/2015 Fix infomation text in footer 3
+16/12/2015 Fix display SKU on single product page. Css group product
+
+=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*
+Ver 1.4.8
+=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*
+11/12/2015 Update shortcode mailchip
+10/12/2015 Update Brand shortcode
+09/12/2015 Update Box product and products_sidebar
+09/12/2015 Update box product style 4
+09/12/2015 Update carousel in all of shortcode
+09/12/2015 Update shortcode testimonial
+08/12/2015 Update VC 4.9
+08/12/2015 Update brand shortcode
+08/12/2015 Add footer style 5
+08/12/2015 Add header style 13,14
+07/12/2015 Update allow display html coppyright for footer 1,2,3,4,5
+07/12/2015 Fix form search on top, Fix main menu on mobile
+
+=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*
+Ver 1.4.7
+=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*
+05/12/2015Fix auto height list product, Update template home page 9,11,12
+05/12/2015 Update, short code banner, hot category, header 9
+04/12/2015 Update header 9
+03/12/2015 Category Carousel
+03/12/2015 Shortcode banner title option 11
+03/12/2015 Reponsive, rtl option11
+03/12/2015 Update shortcode service style3, Blog style 5
+02/12/2015 Add header 11, footer 11
+02/12/2015 Banner title shortcode
+02/12/2015 Update shortcode service style 3
+
+=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*
+Ver 1.4.5
+=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*
+01/12/2015 Fix Error Non-object 436 tab category
+30/11/2015 Update Ontop menu
+30/11/2015 Update rtl option 12
+30/11/2015 Update size product_sidebar shortcode
+30/11/2015 Update Color tab category 7
+28/11/2015 Update color option12
+28/11/2015 Thumbnail Tab Category
+28/11/2015 Update thumbnail tab 7 - tab category
+28/11/2015 Update css reponsive option12
+28/11/2015 Update tab category
+28/11/2015 Update css, Update short code Popular category
+27/11/2015 Update payment logos footer 4
+26/11/2015 Build option 12
+26/11/2015 Option 12 Category tab, lastest deal sidebar, testinominal
+25/11/2015 Update header and footer style 4
+25/11/2015 Add header 12
+=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*
+Ver 1.4.4
+=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*
+24/11/2015 Fix vertical menu on ipad, RTL option 8
+24/11/2015 Change short product name use css, Fix load rtl use WPML, add child theme
+24/11/2015 Update display button all category vertical menu
+23/11/2015 Update VC 4.8.1, Fix OWL setting on shortcode,Fix translate Vertical menu
+20/11/2015 Update header 8, Update shortcode banner text, look books, brands, colections
+13/11/2015 Fix Main menu in firefox
+13/11/2015 Fix menu on mobile, Update theme option
+
+=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*
+Ver 1.4.3
+=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*
+12/11/2015 Update Theme setting color
+12/11/2015 Fix Review star display
+12/11/2015 Fix Category display
+12/11/2015 Fix Main menu on firefox
+=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*
+Ver 1.4.2
+=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*
+#5/11/2015 # Update Theme options
+#4/11/2015 ## Fix button add cart list view products
+#4/11/2015 # Update topbar menu and Main menu. Support 3 levels
+#3/11/2015 ## Fix responsive tab category
+#02/11/2015 ## Fix button added cart and border 0ption7
+=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*
+Ver 1.4.1
+=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*
+#29/10/2015 ## Update woocommerce_image_dimensions after switch theme
+#29/10/2015 ## Fix grid view list product
+
+=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*
+Ver 1.4
+=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*
+
+#29/10/2015 ## Add setting vertical menu, css Megemenu
+#29/10/2015 ## Update shortcode mailchimp select lists
+#29/10/2015 ## Update woocommerce_image_dimensions after switch theme
+#29/10/2015 ## Fix group button tab 6 on firefox
+#29/10/2015 ## Fix percentage price in shortcode lastest deal sidebar
+
+#28/10/2015 ## Update css option 7 and RTL
+#28/10/2015 ## Fix js elevator button
+
+=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*
+Ver 1.3
+=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*
+
+#27/10/2015 ## Update css option 7
+#27/10/2015 ## Update rtl
+#27/10/2015 ## Update hotdeal css
+#27/10/2015 ## Update footer style3
+#27/10/2015 ## Update class tab 6
+#27/10/2015 ## Update option 7 color
+
+#26/10/2015 ## Update Setting Vertical Menu
+#26/10/2015 ## Update Option 7 Header
+#26/10/2015 ## Update mini cart option7
+#26/10/2015 ## Update css tab product 6, hotdeal
+#26/10/2015 ## RTL Option 7
+
+#25/10/2015 ## Fix brand
+
+#22/10/2015 ## Fix sort by in shop page
+
+#21/10/2015 ## Update option  7
+#21/10/2015 ## Fix trending option 3
+#21/10/2015 ## Update hotdeal and fix countdown
+#21/10/2015 ## Update feature product, css reponsive
+#21/10/2015 ## Update plugin recomment
+
+
+=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*
+Ver 1.2.1
+=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*
+
+#27/10/2015 ## Create default template VC
+
+#20/10/2015 ## Update RTL option 3 4
+
+#19/10/2015 ## Update search product and update recomment plugin
+
+#14/10/2015 ## Fix Mutil color on change default color
+#14/10/2015 ## Update option 3 and 4
+#14/10/2015 ## Update color header 3
+
+#13/10/2015 ## Update color tab 5 category
+
+#11/10/2015 ## Update Quickview and Fix category slider 
+
+#10/10/2015 ## Update shortcode Hot deal and RTL
+
+#9/10/2015  ## Update Qty input type and RTL
+
+#8/10/2015  ## Update header and footer option3
+
+#7/10/2015  ## Update mutil color option 5
+#7/10/2015  ## Update RTL and RGB Color all of option
+
+#6/10/2015  ## Fix thumbnail shortcode hotdeal category
+#6/10/2015  ## Fix social in top header
+#6/10/2015  ## Fix background image
+#6/10/2015  ## Update super cache
+#6/10/2015  ## Fix "Specify image dimensions" on gtmetrix.com
+#6/10/2015  ## Fix not display social widget
+#6/10/2015  ## Fix bacground tab 2
+#6/10/2015  ## Update destination image
+#6/10/2015  ## Fix footer widget css
+
+#5/10/2015  ## Fix bug mailchimp and fix bug translate variable
+#5/10/2015  ## Fix bug vertical menu
+#5/10/2015  ## Update option 5 and fix form search
+
+#2/10/2015  ## Update option 5
+
+#1/10/2015  ## Update esc string translate
+
+
+
+

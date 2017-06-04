@@ -1,0 +1,69 @@
+/*--------------------
+[ Mega menu]
+--------------------*/
+.mega-menu{
+	
+}
+.megamenu .wpb_row, 
+.megamenu .wpb_content_element, 
+.megamenu ul.wpb_thumbnails-fluid > li, 
+.megamenu .last_toggle_el_margin, 
+.megamenu .wpb_button.wpb_row, 
+.megamenu .wpb_content_element, 
+.megamenu ul.wpb_thumbnails-fluid > li, 
+.megamenu .last_toggle_el_margin, 
+.megamenu .wpb_button{
+	margin-bottom: 0;
+}
+.megamenu .widget{
+	border: none;
+	padding: 0;
+}
+.megamenu .widget .widgettitle{
+	text-transform: uppercase;
+	border-bottom: 1px solid #eaeaea;
+	margin-bottom: 10px;
+	font-weight: bold;
+	font-size: 13px;
+	margin-top: 15px;
+	color: #333;
+	line-height: 32px;
+	position: relative;
+}
+.megamenu  .widget:first-child .widgettitle{
+	margin-top: 0;
+}
+
+.megamenu  .widget .widgettitle:before {
+	content: '';
+	width: 40%;
+	height: 1px;
+	background: #ff3366;
+	position: absolute;
+	left: 0;
+	bottom: 0;
+}
+.megamenu .widget_nav_menu li{
+	line-height: 32px;
+	list-style: none;
+}
+.megamenu .widget_nav_menu li a:before{
+	display: none;
+}
+.megamenu .mega-menu>li{
+	list-style: 32px;
+	list-style: none;
+}
+.megamenu .dropdown-menu>li>a{
+	padding: 0;
+	line-height: 32px;
+}
+.megamenu .dropdown-menu>li>a:hover{
+	background: transparent;
+	color:#ff3366; 
+}
+#main-menu .megamenu{
+	width: 100%;
+}
+body .wpb_content_element, body ul.wpb_thumbnails-fluid > li, 
+body .last_toggle_el_margin, body .wpb_button { margin-bottom: 0; }
